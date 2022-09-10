@@ -20,30 +20,52 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+My Creator is [ᴿⁱʸᵃˡ 𝙺𝙸𝙽𝙶 𝙳𝙰𝚁𝙺 🅳𝙴𝚅𝙸𝙻࿐ ]` //Costomize Alive Message (type your message in `▁▁▁▁▁▂▃▄▅▆▇█▇▆▅▄▃
+📤I am alive now😇🙏🥺මම බ්ලැක් ඩ්‍රැගන් බොට්🙏🥺
+🤷‍♀️How can I help you? [ᴿⁱʸᵃˡ 𝙺𝙸𝙽𝙶 𝙳𝙰𝚁𝙺 🅳𝙴𝚅𝙸𝙻࿐ ]
+ 
+ආදරයෙන් සාදරයෙන් පිලිගන්නවා ඔබව
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+වට්සැප් පැකේජ් එකෙන්ම සින්දු , 
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
+වීඩියෝ ඩවුන්ලෝඩ් කරමු.
+
+තව ගොඩක් දේවල් තියෙනවා
+
+පහල තියෙන කමාන්ඩ් Use කරන්න
+
+මුලට ඩොට් එක ( . )අනිවාර්ය නෑ
+
+.alive = බොට් වැඩද බැලීමට
+
+.song = සිංදු download කිරීමට
+
+.video = video download කිරීමට
+
+.menu = වෙනත් command` )
+
+global.owner = ['+94774967570'] //Owner number in aive msg
+global.premium = ['+94774967570'] //Owner Number info
+global.ownernomer = '+94774967570' //Owner Number <<<
+
+global.ownername = '[ᴿⁱʸᵃˡ 𝙺𝙸𝙽𝙶 𝙳𝙰𝚁𝙺 🅳𝙴𝚅𝙸𝙻࿐ ]' //Owner Name
 global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '⚒ 𝙱𝙾𝚃 𝙶𝚁𝙾𝚄𝙿 ⚒' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://chat.whatsapp.com/Gh50I8hEVtBJGroTtQF8Ly' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.author = '[ᴿⁱʸᵃˡ 𝙺𝙸𝙽𝙶 𝙳𝙰𝚁𝙺 🅳𝙴𝚅𝙸𝙻࿐ ]' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_Kumuthu.' //In list menu
-global.chatbotpre = 'true'  // Chat bot true/false
+global.chatbotpre = 'false'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://chat.whatsapp.com/Gh50I8hEVtBJGroTtQF8Ly' //⚒ 𝙱𝙾𝚃 𝙶𝚁𝙾𝚄𝙿 ⚒
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
