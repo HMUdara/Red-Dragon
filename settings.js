@@ -21,7 +21,7 @@ global.APIKeys = {
 
 global.alivemsg = `My name is RED DRAGON🔥
 My Creator is [ᴿⁱʸᵃˡ 𝙺𝙸𝙽𝙶 𝙳𝙰𝚁𝙺 🅳𝙴𝚅𝙸𝙻࿐ ]` //Costomize Alive Message (type your message in `▁▁▁▁▁▂▃▄▅▆▇█▇▆▅▄▃
-📤I am alive now😇🙏🥺මම බ්ලැක් ඩ්‍රැගන් බොට්🙏🥺
+📤I am alive now😇🙏🥺මම රෙඩ් ඩ්‍රැගන් බොට්🙏🥺
 🤷‍♀️How can I help you? [ᴿⁱʸᵃˡ 𝙺𝙸𝙽𝙶 𝙳𝙰𝚁𝙺 🅳𝙴𝚅𝙸𝙻࿐ ]
  
 ආදරයෙන් සාදරයෙන් පිලිගන්නවා ඔබව
